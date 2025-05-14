@@ -1,6 +1,6 @@
 # COVID-19 Global Data Tracker
 
-![COVID-19 Dashboard Example](https://www.boldbi.com/resources/dashboard-examples/healthcare/coronavirus-disease-analysis-dashboard/)
+![COVID-19 Dashboard Example]![image](https://github.com/user-attachments/assets/64f901e0-12f4-459f-b362-aa51e793cb2c)
 
 ## Project Description
 This project analyzes global COVID-19 trends including cases, deaths, recoveries, and vaccination progress across different countries. The analysis is presented in a Jupyter Notebook with interactive visualizations and data-driven insights about the pandemic's progression.
