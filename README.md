@@ -1,6 +1,6 @@
 # COVID-19 Global Data Tracker
 
-![COVID-19 Dashboard Example](https://ourworldindata.org/uploads/2020/03/COVID-19-positive-rate-vs-testing-rate-768x576.png)
+![COVID-19 Dashboard Example](https://www.boldbi.com/resources/dashboard-examples/healthcare/coronavirus-disease-analysis-dashboard/)
 
 ## Project Description
 This project analyzes global COVID-19 trends including cases, deaths, recoveries, and vaccination progress across different countries. The analysis is presented in a Jupyter Notebook with interactive visualizations and data-driven insights about the pandemic's progression.
